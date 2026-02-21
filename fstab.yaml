@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://drive.google.com/drive/folders/1wnvqadpOQnR6OWov31bLozjmrw299-Lw"
+    url: "https://da.live/#/guideaem/traineds"
     type: "markup"
     suffix: ".html"
